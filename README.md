@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NewsunBanjade
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in Flutter,GO
+- 🌱 I’m currently learning Flutter,GO
+- 💞️ I’m looking to collaborate on Flutter,GO
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newsunbanjade)
