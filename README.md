@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaBanjade
+- 👋 Hi, I’m @NewsunBanjade
 - 👀 I’m interested in Flutter,GO
 - 🌱 I’m currently learning Flutter,GO
 - 💞️ I’m looking to collaborate on Flutter,GO
